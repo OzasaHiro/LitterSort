@@ -1,2 +1,2 @@
 # LitterSort
-project for Code or San Jose
+project for Code for San Jose
