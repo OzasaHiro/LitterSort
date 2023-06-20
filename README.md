@@ -4,7 +4,7 @@ project for Code for San Jose
 
 ver 0.1.0
 
-Applied customized model trained by CompostNet dataset for versionA
+Customized model trained by CompostNet dataset for versionA
 https://github.com/sarahmfrost/compostnet/tree/master
 
 
