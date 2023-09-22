@@ -8,7 +8,6 @@ Customized model trained by CompostNet dataset for versionA
 https://github.com/sarahmfrost/compostnet/tree/master
 
 
+You can trial it from
 
-If you would like to use,
-
- please make "assets" directory at the root of the project and download "model.tflite" under the directory
+https://littersortapppy-fr2mmkmhm8xxtfcsbdosry.streamlit.app/
