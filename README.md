@@ -2,10 +2,7 @@
 project for Code for San Jose
 
 
-ver 0.1.0
-
-Customized model trained by CompostNet dataset for versionA
-https://github.com/sarahmfrost/compostnet/tree/master
+ver 0.2.0
 
 
 You can trial it from
